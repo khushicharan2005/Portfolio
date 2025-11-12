@@ -4,8 +4,6 @@ import homeLogo from "../../Assets/home-main.svg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
-import Techstack from "../About/Techstack";
-import Github from "../About/Github";
 import {
   AiFillGithub,
   AiOutlineTwitter,
@@ -64,7 +62,7 @@ function Home() {
                   href="https://github.com/soumyajit4419"
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour  home-social-icons"
+                  className="icon-colour home-social-icons"
                 >
                   <AiFillGithub />
                 </a>
@@ -74,7 +72,7 @@ function Home() {
                   href="https://twitter.com/Soumyajit4419"
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour  home-social-icons"
+                  className="icon-colour home-social-icons"
                 >
                   <AiOutlineTwitter />
                 </a>
@@ -84,7 +82,7 @@ function Home() {
                   href="https://www.linkedin.com/in/soumyajit4419/"
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour  home-social-icons"
+                  className="icon-colour home-social-icons"
                 >
                   <FaLinkedinIn />
                 </a>
